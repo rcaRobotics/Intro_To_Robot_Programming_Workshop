@@ -7,7 +7,7 @@ Buzzer buzzer;
 Motors motors;
 ButtonA buttonA;
 
-//declare variables for maximus speed and a slower speed
+//declare variables for a maximum speed and a slower speed
 int maxSpeed = 80;
 int slowSpeed = 40;
 
